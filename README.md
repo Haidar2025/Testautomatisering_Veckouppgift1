@@ -1,2 +1,0 @@
-# Testautomatisering_Veckouppgift1
-Testautomatisering Veckouppgift1
