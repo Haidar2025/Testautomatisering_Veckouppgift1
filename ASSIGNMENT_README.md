@@ -46,11 +46,6 @@ python main_4.py
 
 ## Assignment Sections Completed:
 
-- ✅ Section 1: Project setup and GitHub sync
-- ✅ Section 2: Bug fixing and code review
-- ✅ Section 3: Variables, input(), and data types
-- ✅ Section 4: Advanced exercises (math, dates)
-
 ## Author
 Haidar (2026)
 
