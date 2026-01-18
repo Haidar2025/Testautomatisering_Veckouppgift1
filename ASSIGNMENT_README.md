@@ -44,9 +44,15 @@ python main_4.py
    
 3. **Date calculator** - Shows today's date and date in 7 days
 
+## Assignment Sections Completed:
+
+- ✅ Section 1: Project setup and GitHub sync
+- ✅ Section 2: Bug fixing and code review
+- ✅ Section 3: Variables, input(), and data types
+- ✅ Section 4: Advanced exercises (math, dates)
 
 ## Author
-Haidar (2025)
+Haidar (2026)
 
 ## Repository
 https://github.com/Haidar2025/Testautomatisering_Veckouppgift1
